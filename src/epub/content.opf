@@ -49,6 +49,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6050</dc:source>
 		<dc:source>https://archive.org/details/rootsofmountains00morr_0</dc:source>
+		<meta property="se:production-notes">Some names were not modernized (hyphens were retained) to match the style of similar other names in the book that would not have been modernized.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Roots_of_the_Mountains</meta>
