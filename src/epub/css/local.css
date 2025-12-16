@@ -75,13 +75,18 @@ p span.i4{
 
 [epub|type~="z3998:song"] header p{
 	font-style: italic;
-	margin-left: 5em;
 	margin-top: 1em;
+	text-align: center;
 }
 /* end poetry, songs */
 
 /* Custom rules */
 q{
+	font-style: italic;
+}
+
+#chapter-14 blockquote,
+#chapter-17 blockquote{
 	font-style: italic;
 }
 
