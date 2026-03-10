@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-25.xhtml">
 		<ignore code="t-003">
+			<line>73</line>
 			<reason>Same speaker continues.</reason>
 		</ignore>
 	</file>
